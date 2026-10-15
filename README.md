@@ -1,8 +1,6 @@
 # Vibe Coding Workshop — Participant Repo
 **Civic Tech Edition · RICE · CRAFT · agents.md · skills.md · Git**
 
-## Quick Start
-
 **Step 0 — Read the [FAQ.md](./FAQ.md)**
 Before you begin, check the FAQ for instructions on Git Issues, creating PRs, and common troubleshooting tips.
 
