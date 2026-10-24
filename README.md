@@ -39,11 +39,7 @@ data/policy-documents/   policy_hr_leave.txt
 
 data/budget/             ward_budget.csv
 ```
-
----
-
 ## Repo Structure
-
 ```
 workshop-repo/
 ├── uc-0a/          Complaint Classifier
@@ -78,7 +74,6 @@ workshop-repo/
 └── .github/
     └── PULL_REQUEST_TEMPLATE/
         └── submission.md   Fill this when opening your PR
-```
 
 ---
 
